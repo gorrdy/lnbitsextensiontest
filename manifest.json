@@ -6,7 +6,9 @@
             "repository": "lnbitsextensiontest",
             "url": "https://github.com/gorrdy/lnbitsextensiontest",
             "name": "Test ext",
-            "version": "0.0.1"
+            "version": "0.0.1",
+            "hash": "3e35fe10336212773d5b253210816800f18de063a749b78200ccdf39e5cd5a5b",
+            "archive": "https://github.com/gorrdy/lnbitsextensiontest/archive/refs/tags/v0.0.1.zip"
         }
     ]
 }
