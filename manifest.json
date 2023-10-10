@@ -3,7 +3,10 @@
         {
             "id": "lnbitsextensiontest",
             "organisation": "gorrdy",
-            "repository": "lnbitsextensiontest"
+            "repository": "lnbitsextensiontest",
+            "url": "https://github.com/gorrdy/lnbitsextensiontest",
+            "name": "Test ext",
+            "version": "0.0.1"
         }
     ]
 }
