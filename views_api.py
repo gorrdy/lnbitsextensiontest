@@ -2,12 +2,12 @@
 
 # add your dependencies here
 
-from . import example_ext
+from . import lnbitsextensiontest_ext
 
 # add your endpoints here
 
 
-@example_ext.get("/api/v1/test/{test_data}")
-async def api_example(test_data):
+@lnbitsextensiontest_ext.get("/api/v1/test/{test_data}")
+async def api_lnbitsextensiontest(test_data):
     # Do some python things and return the data
     return test_data

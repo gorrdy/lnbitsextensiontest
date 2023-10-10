@@ -1,5 +1,5 @@
 # from pydantic import BaseModel
 
-# class Example(BaseModel):
+# class lnbitsextensiontest(BaseModel):
 #    id: str
 #    wallet: str
